@@ -17,8 +17,8 @@ This project provides a simple command-line interface (CLI) for running audio in
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/G1ya777/Mmeslay_backend-CLI.git
+cd Mmeslay_backend-CLI
 ```
 
 2. Install dependencies:
